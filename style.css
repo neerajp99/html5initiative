@@ -264,9 +264,17 @@ span {
     margin: 0 auto;
     border: 2px solid #222222;
     position: relative;
-    top: 40px;
+    top: 25%;
     margin-bottom: 100px;
     overflow: hidden;
+
+}
+h6{
+    font-size: 20px;
+    position: relative;
+   text-align: center;
+   margin: 0 auto;
+    top: 105px;
 }
 
 iframe {
